@@ -13,7 +13,7 @@ import zipfile
 from pathlib import Path
 from typing import Dict, List, Any
 
-from joplin_api import JoplinApi
+from joplin_api import JoplinApiSync as JoplinApi
 
 
 class nsx2joplin:
