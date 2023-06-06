@@ -1,6 +1,8 @@
 # notestation-to-joplin
 Imports a Synology Note Station .nsx file into Joplin notes app
 
+**Attention: This repo is not actively maintained anymore!**
+
 ## Installing this Python script
 - Download this repository or clone it to your project directory via  
 `git clone https://github.com/KraxelHuber/notestation-to-joplin.git` or  
